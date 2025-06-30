@@ -2,9 +2,11 @@
 
 ### Sobre mim
 
-- 💻 Focado em desenvolvimento back-end
+- 💻 Desenvolvedor focado em back-end Java, agora explorando o mundo do front-end com Angular
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 📚 Atualmente estudando **APIs REST**
+- 🧪 Estudando e praticando testes unitários e de integração com JUnit 5 e Mockito
+- 🧠 Apaixonado por boas práticas
+- 🧱 Entusiasta de arquiteturas de software, com ênfase no isolamento do core para promover modularidade, manutenibilidade e escalabilidade.
 
 ---
 
@@ -13,6 +15,9 @@
 ![Java logo](https://skillicons.dev/icons?i=java&theme=light)
 ![Spring logo](https://skillicons.dev/icons?i=spring&theme=light)
 ![MySQL logo](https://skillicons.dev/icons?i=mysql&theme=light)
+![MongoDB logo](https://skillicons.dev/icons?i=mongodb&theme=light)
+![Docker logo](https://skillicons.dev/icons?i=docker&theme=light)
+![Angular logo](https://skillicons.dev/icons?i=angular&theme=light)
 
 ---
 
